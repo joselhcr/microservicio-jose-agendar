@@ -13,7 +13,7 @@ El microservicio está diseñado con un patrón de "Doble Camino" para ser altam
 **Clonar el repositorio y moverse a la raíz**
 ```bash
 # Reemplaza la URL con la de tu repositorio
-git clone [https://github.com/tu-usuario/microservicio-jose-agendar.git](https://github.com/tu-usuario/microservicio-jose-agendar.git)
+git clone 
 
 cd microservicio-jose-agendar
 
